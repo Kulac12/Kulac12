@@ -1,41 +1,80 @@
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Edanur+Kulaç;Full-Stack+Developer;Unity+%26+C#+Meraklısı;Problem+Çözücü )
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Edanur%20Kulaç&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Unity%20%26%20C%23%20Enthusiast&descAlignY=55&descAlign=50)
 
-<p align="left">
- <a href="https://tr.linkedin.com/in/edanur-kulaç-754a44182" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Edanur_Kulaç-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edanur Kulaç LinkedIn Profili"/>
+</div>
+
+<div align="center">
+  <a href="https://tr.linkedin.com/in/edanur-kulaç-754a44182" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kulacedanur460@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Kulac12&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
+</div>
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+<br/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,unity,git,github,docker,py,react" />
-  </a>
-</p>
+## 👩‍💻 Hakkımda
 
-### 📊 GitHub İstatistiklerim
-<!-- GitHub İstatistik Kartı -->
-[![Edanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
+> *"Kod yazmak sorunlara zarif çözümler bulmanın sanatıdır."*
 
-<!-- En Çok Kullanılan Diller Kartı -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
+Full-Stack bir developer olarak hem frontend'in estetiğini hem de backend'in gücünü seviyorum. Unity ile oyun geliştirmek ve C# ekosistemi özellikle ilgi alanlarım arasında yer alıyor.
 
-<!--
-**Kulac12/Kulac12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Edanur Kulaç
+role: Full-Stack Developer
+interests: ["Web Dev", "Game Dev", "Problem Solving"]
+currently_learning: "Her gün bir şeyler 🚀"
+fun_fact: "Kod + kahve = mutluluk ☕"
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Game Dev**
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
+
+</div>
