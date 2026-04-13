@@ -1,11 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Edanur%20Kula%C3%A7&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Unity%20%26%20C%23%20Enthusiast&descAlignY=55&descAlign=50)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Edanur+Kula%C3%A7+%F0%9F%91%8B;Full-Stack+Developer;Unity+%26+C%23+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://tr.linkedin.com/in/edanur-kula%C3%A7-754a44182" target="_blank">
+  <a href="https://tr.linkedin.com/in/edanur-kulac-754a44182" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kulacedanur460@gmail.com">
@@ -16,6 +18,8 @@
 
 <br/>
 
+---
+
 ## 👩‍💻 Hakkımda
 
 > *"Kod yazmak sorunlara zarif çözümler bulmanın sanatıdır."*
@@ -23,11 +27,10 @@
 Full-Stack bir developer olarak hem frontend'in estetiğini hem de backend'in gücünü seviyorum. Unity ile oyun geliştirmek ve C# ekosistemi özellikle ilgi alanlarım arasında yer alıyor.
 
 ```yaml
-name: Edanur Kulac
-role: Full-Stack Developer
-interests: ["Web Dev", "Game Dev", "Problem Solving"]
-currently_learning: "Her gun bir seyler 🚀"
-fun_fact: "Kod + kahve = mutluluk ☕"
+name   : Edanur Kulaç
+role   : Full-Stack Developer
+focus  : ["Web Dev", "Game Dev", "Problem Solving"]
+motto  : "Kod + kahve = mutluluk ☕"
 ```
 
 ---
@@ -45,6 +48,8 @@ fun_fact: "Kod + kahve = mutluluk ☕"
 **Frontend & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue 3](https://img.shields.io/badge/Vue%203-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vue 2](https://img.shields.io/badge/Vue%202-35495E?style=for-the-badge&logo=vue.js&logoColor=41B883)
 
 **DevOps & Tools**
 
@@ -56,6 +61,12 @@ fun_fact: "Kod + kahve = mutluluk ☕"
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+**Hardware & Electronics**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
 </div>
 
 ---
@@ -63,18 +74,14 @@ fun_fact: "Kod + kahve = mutluluk ☕"
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
-
-</div>
