@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Edanur%20Kulaç&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Unity%20%26%20C%23%20Enthusiast&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Edanur%20Kula%C3%A7&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Unity%20%26%20C%23%20Enthusiast&descAlignY=55&descAlign=50)
 
 </div>
 
 <div align="center">
-  <a href="https://tr.linkedin.com/in/edanur-kulaç-754a44182" target="_blank">
+  <a href="https://tr.linkedin.com/in/edanur-kula%C3%A7-754a44182" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kulacedanur460@gmail.com">
@@ -23,10 +23,10 @@
 Full-Stack bir developer olarak hem frontend'in estetiğini hem de backend'in gücünü seviyorum. Unity ile oyun geliştirmek ve C# ekosistemi özellikle ilgi alanlarım arasında yer alıyor.
 
 ```yaml
-name: Edanur Kulaç
+name: Edanur Kulac
 role: Full-Stack Developer
 interests: ["Web Dev", "Game Dev", "Problem Solving"]
-currently_learning: "Her gün bir şeyler 🚀"
+currently_learning: "Her gun bir seyler 🚀"
 fun_fact: "Kod + kahve = mutluluk ☕"
 ```
 
@@ -63,12 +63,12 @@ fun_fact: "Kod + kahve = mutluluk ☕"
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak"/>
 </div>
 
 ---
