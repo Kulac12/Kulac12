@@ -74,13 +74,6 @@ motto  : "Kod + kahve = mutluluk ☕"
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kulac12&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulac12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Kulac12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
